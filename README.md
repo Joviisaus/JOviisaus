@@ -7,11 +7,11 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/VIISAUS00/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/JOviisaus/count.svg)
 
-![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIISAUS&count_private=true&show_icons=true)
+![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOviisaus&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIISAUS&hide_progress=false&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOviisaus&hide_progress=false&layout=donut-vertical)
 
 
 
