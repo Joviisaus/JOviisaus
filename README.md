@@ -14,15 +14,20 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/JOviisaus/count.svg)
 
-![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOviisaus&count_private=true&show_icons=true&theme=onedark)
+![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOviisaus&count_private=true&show_icons=true&theme=onedark#gh-dark-mode-only)
+![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOviisaus&count_private=true&show_icons=true&theme=swift#gh-light-mode-only)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOviisaus&hide_progress=false&layout=donut-vertical&theme=onedark">
+![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JOviisaus&hide_progress=false&layout=donut-vertical&theme=onedark#gh-dark-mode-only)
+![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JOviisaus&hide_progress=false&layout=donut-vertical&theme=onedark#gh-light-mode-only)
 
-![VIISAUS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JOviisaus&theme=github)
+![VIISAUS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JOviisaus&theme=github#gh-dark-mode-only)
+![VIISAUS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JOviisaus&theme=default#gh-light-mode-only)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JOviisaus&theme=onedark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JOviisaus&theme=onedark#gh-light-mode-only)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JOviisaus&theme=swift#gh-light-mode-only)
 
-![cup](https://github-profile-trophy.vercel.app/?username=JOviisaus&theme=onedark)
+![cup](https://github-profile-trophy.vercel.app/?username=JOviisaus&theme=onedark#gh-dark-mode-only)
+![cup](https://github-profile-trophy.vercel.app/?username=JOviisaus&theme=swift#gh-light-mode-only)
 
 
 </div>
