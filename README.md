@@ -25,6 +25,9 @@
 
 ![VIISAUS's github activity graph light](https://github-readme-activity-graph.vercel.app/graph?username=JOviisaus&theme=default#gh-light-mode-only)
 
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)
+![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)
+
 ![GitHub Streak dark](https://streak-stats.demolab.com/?user=JOviisaus&theme=onedark#gh-dark-mode-only)
 
 ![GitHub Streak light](https://streak-stats.demolab.com/?user=JOviisaus&theme=swift#gh-light-mode-only)
