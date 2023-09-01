@@ -15,19 +15,23 @@
 ![Visitor Count](https://profile-counter.glitch.me/JOviisaus/count.svg)
 
 ![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOviisaus&count_private=true&show_icons=true&theme=onedark#gh-dark-mode-only)
+
 ![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOviisaus&count_private=true&show_icons=true&theme=swift#gh-light-mode-only)
 
 ![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JOviisaus&hide_progress=false&layout=donut-vertical&theme=onedark#gh-dark-mode-only)
-![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JOviisaus&hide_progress=false&layout=donut-vertical&theme=onedark#gh-light-mode-only)
+![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JOviisaus&hide_progress=false&layout=donut-vertical&theme=swift#gh-light-mode-only)
 
-![VIISAUS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JOviisaus&theme=github#gh-dark-mode-only)
-![VIISAUS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JOviisaus&theme=default#gh-light-mode-only)
+![VIISAUS's github activity graph dark](https://github-readme-activity-graph.vercel.app/graph?username=JOviisaus&theme=github#gh-dark-mode-only)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JOviisaus&theme=onedark#gh-light-mode-only)
-![GitHub Streak](https://streak-stats.demolab.com/?user=JOviisaus&theme=swift#gh-light-mode-only)
+![VIISAUS's github activity graph light](https://github-readme-activity-graph.vercel.app/graph?username=JOviisaus&theme=default#gh-light-mode-only)
 
-![cup](https://github-profile-trophy.vercel.app/?username=JOviisaus&theme=onedark#gh-dark-mode-only)
-![cup](https://github-profile-trophy.vercel.app/?username=JOviisaus&theme=swift#gh-light-mode-only)
+![GitHub Streak dark](https://streak-stats.demolab.com/?user=JOviisaus&theme=onedark#gh-dark-mode-only)
+
+![GitHub Streak light](https://streak-stats.demolab.com/?user=JOviisaus&theme=swift#gh-light-mode-only)
+
+![cup dark](https://github-profile-trophy.vercel.app/?username=JOviisaus&theme=onedark#gh-dark-mode-only)
+
+![cup light](https://github-profile-trophy.vercel.app/?username=JOviisaus&theme=swift#gh-light-mode-only)
 
 
 </div>
