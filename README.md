@@ -11,13 +11,13 @@
 <p>Welcome to my GitHub homepage! This is the place where you can find all of my development activities managed. I mainly focus on research and development in topology, computer graphics, and image processing.</p>
 
 
-
 ![Visitor Count](https://profile-counter.glitch.me/JOviisaus/count.svg)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ubgh53cifsw6ww2slstcdquahi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOviisaus&count_private=true&show_icons=true&theme=onedark)
 
 <!-- ![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOviisaus&count_private=true&show_icons=true&theme=swift#gh-light-mode-only) -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ubgh53cifsw6ww2slstcdquahi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ![VIISAUS's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JOviisaus&hide_progress=false&layout=donut-vertical&theme=onedark)
