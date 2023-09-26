@@ -8,7 +8,7 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Google+Code&pause=1000&color=F7C255&width=435&lines=Courage+and+Imagine+makes+creativity">
-<p>Welcome to my GitHub homepage! This is the place where you can find all of my development activities managed. I mainly focus on research and development in topology, computer graphics, and image processing.</p>
+  <p>Welcome !</p>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/JOviisaus/count.svg)
