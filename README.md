@@ -10,8 +10,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Google+Code&pause=1000&color=F7C255&width=435&lines=Courage+and+Imagine+makes+creativity">
   <p>Welcome !</p>
 
-[![image](https://api.bento.me/v1/og/viisaus)
-](https://bento.me/viisaus)
 
 ![Visitor Count](https://profile-counter.glitch.me/JOviisaus/count.svg)
 
@@ -42,6 +40,9 @@
 ![cup dark](https://github-profile-trophy.vercel.app/?username=JOviisaus&theme=onedark)
 
 <!-- ![cup light](https://github-profile-trophy.vercel.app/?username=JOviisaus&theme=swift#gh-light-mode-only) -->
+
+[![image](https://api.bento.me/v1/og/viisaus)](https://bento.me/viisaus)
+
 
 
 </div>
