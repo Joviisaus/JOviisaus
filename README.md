@@ -19,13 +19,6 @@
 
 ![GitHub Streak dark](https://streak-stats.demolab.com/?user=JOviisaus&theme=onedark)
 
-<!-- ![GitHub Streak light](https://streak-stats.demolab.com/?user=JOviisaus&theme=swift#gh-light-mode-only) -->
-
-![cup dark](https://github-profile-trophy.vercel.app/?username=JOviisaus&theme=onedark)
-
-<!-- ![cup light](https://github-profile-trophy.vercel.app/?username=JOviisaus&theme=swift#gh-light-mode-only) -->
-
-[![image](https://api.bento.me/v1/og/viisaus)](https://bento.me/viisaus)
 
 
 
